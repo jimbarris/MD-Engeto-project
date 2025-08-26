@@ -14,13 +14,17 @@
 
 
 
+------------------------
+
+
+
 
 
 ### Odpovědi na otázky 
 
 
 
-*\*\* Odpovědi na otázky jsou můj pohled na věc, jak jsem situaci vyhodnotil a jsem otevřený diskuzi. \*\**
+*\*\* Odpovědi na otázky jsou můj pohled na věc, jak jsem situaci vyhodnotil na základě zjištěných dat a jsem otevřený diskuzi. \*\**
 
 
 
