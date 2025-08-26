@@ -1,10 +1,13 @@
-\### FINAL SQL Project
-
-This is my \*\*final project\*\* of Data Academy at Engeto.
+\### Závěrečný SQL projekt akademie ENGETO
 
 
 
-\##### Structure:
+Právě se nacházíte v \*\*průvodní listině\*\* k závěrečnému projektu datové akademie Engeto.
+
+
+
+\##### Repozitář projektu obsahuje:
+
 
 
 
