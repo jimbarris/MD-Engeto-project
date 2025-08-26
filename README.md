@@ -1,4 +1,4 @@
-\### Závěrečný SQL projekt akademie ENGETO
+\# Závěrečný SQL projekt akademie ENGETO
 
 
 
@@ -6,7 +6,9 @@ Právě se nacházíte v \*\*průvodní listině\*\* k závěrečnému projektu 
 
 
 
-\##### Repozitář projektu obsahuje:
+\## Repozitář projektu
+
+
 
 
 
@@ -19,4 +21,12 @@ Právě se nacházíte v \*\*průvodní listině\*\* k závěrečnému projektu 
 
 
 3\.  A také pomocný soubor skriptů s názvem \*\*Temp\_scripts.sql\*\*, který jsem tvořil v rámci přípravy a dosažení finálních výše zmíněných skriptů.
+
+
+
+..
+
+
+
+\## Hlavní otázky a odpovědi projektu
 
