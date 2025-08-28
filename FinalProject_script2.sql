@@ -7,12 +7,12 @@ SELECT
 	,e.year
 	,e.population 
 	,e.gini
-	,e.GDP	
-FROM countries c
-JOIN economies e ON e.country = c.country
-	WHERE c.continent = 'Europe'
-		AND e.year BETWEEN 2006 AND 2018
-ORDER BY c.country, e.year;
+	,e.gdp	
+FROM countries AS c
+	JOIN economies AS e ON e.country = c.country
+		WHERE c.continent = 'Europe'
+			AND e.year BETWEEN 2006 AND 2018
+		ORDER BY c.country, e.year;
 
 
 -- Select do nově vytvořené tabulky FINAL2 pro kontrolu.
