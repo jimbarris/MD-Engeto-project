@@ -37,7 +37,7 @@
 
 
 
-*\*\* Při projektu byla použita aplikace* [*DBEaver*](https://dbeaver.io/) *k přípravě skriptů. Děkuji za přečtení README a případné komentáře a reakce k projektu.\*\**
+*\*\* Při projektu byla použita aplikace* [*DBeaver*](https://dbeaver.io/) *k přípravě skriptů. Děkuji za přečtení README a případné komentáře a reakce k projektu.\*\**
 
 
 
