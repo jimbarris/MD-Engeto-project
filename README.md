@@ -24,9 +24,8 @@
    
 2. Další soubor s názvem ***Main\_questions\_scripts\_and\_views.sql***, který obsahuje pomocné views a skripty k získání       právě zmíněných odpovědí na otázky.
    
-3. Pomocný soubor skriptů s názvem ***Temp\_scripts.sql***, který jsem tvořil v rámci přípravy a dosažení finálních výše zmíněných skriptů.
-   
-4. Soubor ***Q\&A.md***, který obsahuje otázky a odpovědi na výzkumné otázky.
+  
+3. Soubor ***Q\&A.md***, který obsahuje otázky a odpovědi na výzkumné otázky.
 
 
 
