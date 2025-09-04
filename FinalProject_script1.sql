@@ -1,4 +1,3 @@
-SELECT * from t_marek_duda_project_SQL_primary_final;
 
 -- Tabulky cen potravin a průměrných mezd mají společné roky 2006 - 2018
 
@@ -25,4 +24,4 @@ FROM czechia_price AS cp
 
 -- Select do nově vytvořené tabulky FINAL1 pro kontrolu.
 
-SELECT * FROM t_marek_duda_project_SQL_primary_final_v2;
+SELECT * FROM t_marek_duda_project_SQL_primary_final;
