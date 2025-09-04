@@ -10,7 +10,7 @@
 
 Ahoj,
 
-děkuji za hodnocení, konstruktivní kritiku a vlastní pohled lektora a datového analytika. Bylo to pro mě velmi přínosné. Zároveň si dovolím krátce zareagovat, protože si myslím, že je důležitá i má interakce a možná i můj pohled na věc, jako zpětná vazba. Své komentáře přidávám kurzívou.
+děkuji za hodnocení, konstruktivní kritiku a vlastní pohled jako lektora a datového analytika. Bylo to pro mě velmi přínosné. Zároveň si dovolím krátce zareagovat, protože si myslím, že je důležitá i má interakce a možná i můj pohled na věc, jako zpětná vazba. Své komentáře přidávám kurzívou. Děkuji.
 
 ---
 
@@ -24,7 +24,7 @@ děkuji za hodnocení, konstruktivní kritiku a vlastní pohled lektora a datov�
 
 
 
-*Rozhodně souhlasím, to mi uteklo. Zapomněl jsem na to ve finále. Projekt byl celkem složitý pro mě, jelikož se jednalo o první projekt podobného typu.*
+*Rozhodně souhlasím, to mi uteklo. Zapomněl jsem na to ve finále. Úplně upřímně, projekt byl celkem složitý, jelikož se jednalo o první projekt podobného typu. Ale skvělá zkušenost.*
 
 
 
@@ -32,7 +32,7 @@ děkuji za hodnocení, konstruktivní kritiku a vlastní pohled lektora a datov�
 
 
 
-*Děkuji za to. Jelikož v práci díky ERP systému Money děláme na Microsoftu SQL, tak jsem to pomotal. Snad to na podruhé bude správně. :)*
+*Děkuji za to. Jelikož v práci díky ERP systému Money děláme na Microsoftu SQL, tak jsem to pomotal. Snad to napodruhé bude správně. :)*
 
 
 
@@ -40,8 +40,8 @@ děkuji za hodnocení, konstruktivní kritiku a vlastní pohled lektora a datov�
 
 
 
-*Děkuji za tvůj pohled. A vlastně to chápu. Tady jsem popravdě ten skript několikrát upravoval. A nakonec to vyhodnotil špatně. :)
-Já na to koukal tak, že to seřadím podle toho, jak tam ty tabulky JOINuju a že to bude přehledné. Je pravda, že přehledné to musí být až pak v samotném seřazení sloupců a jak se říká: "Chybama se člověk učí."*
+*Děkuji za tvůj pohled. A vlastně to chápu. Tady jsem popravdě ten skript několikrát upravoval. A nakonec to vyhodnotil špatně, jak je vidět z tvé reakce. :)
+Já na to koukal tak, že to seřadím podle toho, jak tam ty tabulky JOINuju a že to bude přehledné. Je pravda, že přehledné to musí být až pak v samotném seřazení sloupců, ale jak se říká: "Chybami se člověk učí."*
 
 
 
@@ -49,5 +49,5 @@ Já na to koukal tak, že to seřadím podle toho, jak tam ty tabulky JOINuju a 
 
 
 
-*Popravdě, tohle jsme vůbec neprobírali s kolegou. Ale hodil jsem si to do ChatuGPT a to je šikovné. Pro zjednodušení je to super. Některé ty kódy mi přišli dost košaté už. Takže děkuji za obohacení.*
+*Popravdě, tohle jsme vůbec neprobírali s kolegou. Ale hodil jsem si to do ChatuGPT a je to šikovné. Pro zjednodušení je to super. Některé ty kódy mi přišli dost košaté už. Souhlas. Takže děkuji za obohacení znalostí.*
 

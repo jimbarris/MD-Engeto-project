@@ -14,9 +14,8 @@
 
 
 
-V rámci projektu jsem připravil podklady ke zjištění,zda-li rostou mzdy v České Republice v daném odobí. Jakým zpsobem se vyvíjí - zda-li rostou, nebo klesají.
-
-Dále jsem porovnával z dostupných dat ceny základních potravin. Jestli u nich dochází v průběhu času ke zlevňování, či zdražení. V neposlední řadě jsem se zaměřil na HDP a jeho vliv v dané problematice. Jestli růst HD má vliv na růst cen potravin, či mezd.
+V rámci projektu jsem připravil podklady ke zjištění, zda-li rostou mzdy v České Republice ve sledovaném období 2006-2018. Jakým způsobem se mzdy vyvíjí - zda-li rostou, nebo klesají.
+Dále jsem porovnával z dostupných dat ceny základních potravin. Jestli u nich dochází v průběhu času ke zlevňování, či zdražení. V neposlední řadě jsem se zaměřil na HDP a jeho vliv v dané problematice. Jestli růst HD má vliv na růst cen potravin, či mezd v letech 2006-2018.
 
 
 
