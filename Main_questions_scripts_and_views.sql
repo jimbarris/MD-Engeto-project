@@ -5,7 +5,7 @@ CREATE OR REPLACE VIEW v_marek_duda_avg_wages_sector_and_year AS
 SELECT 
 	industry_branch_name
 	,payroll_year
-	,round(avg(avg_wages)) AS avg_wages_czk
+	,round(avg(avg_wages_czk))
 FROM t_marek_duda_project_SQL_primary_final
 GROUP BY industry_branch_name, payroll_year
 ORDER BY industry_branch_name;
@@ -75,8 +75,8 @@ SELECT
 	,price_unit
 	,payroll_year
 	,round(avg(food_price), 2) AS avg_price
-	,round(avg(avg_wages), 2) AS avg_wages
-	,round((round(avg(avg_wages), 2)) / (round(avg(food_price), 2))) AS avg_purchase_pow
+	,round(avg(avg_wages_czk), 2) AS avg_wages
+	,round((round(avg(avg_wages_czk), 2)) / (round(avg(food_price), 2))) AS avg_purchase_pow
 FROM t_marek_duda_project_SQL_primary_final
 WHERE payroll_year IN(2006, 2018)
 	AND food_category IN('Mléko polotučné pasterované', 'Chléb konzumní kmínový')
@@ -90,8 +90,8 @@ SELECT
     ,food_category
     ,payroll_year
     ,ROUND(AVG(food_price::numeric), 2) AS avg_price
-    ,ROUND(AVG(avg_wages::numeric), 2) AS avg_wages
-    ,ROUND(AVG(avg_wages::numeric) / AVG(food_price::numeric), 2) AS avg_purchase_pow
+    ,ROUND(AVG(avg_wages_czk::numeric), 2) AS avg_wages
+    ,ROUND(AVG(avg_wages_czk::numeric) / AVG(food_price::numeric), 2) AS avg_purchase_pow
 FROM t_marek_duda_project_SQL_primary_final
 WHERE payroll_year IN (2006, 2018)
   AND food_category IN ('Mléko polotučné pasterované', 'Chléb konzumní kmínový')
@@ -105,8 +105,8 @@ SELECT
     ,price_unit
     ,payroll_year
     ,ROUND(AVG(food_price::numeric), 2) AS avg_price
-    ,ROUND(AVG(avg_wages::numeric), 2) AS avg_wages
-    ,ROUND(AVG(avg_wages::numeric) / AVG(food_price::numeric), 2) AS avg_purchase_pow
+    ,ROUND(AVG(avg_wages_czk::numeric), 2) AS avg_wages
+    ,ROUND(AVG(avg_wages_czk::numeric) / AVG(food_price::numeric), 2) AS avg_purchase_pow
     ,industry_branch_name
 FROM t_marek_duda_project_SQL_primary_final
 WHERE payroll_year IN (2006, 2018)
